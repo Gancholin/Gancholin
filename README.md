@@ -35,3 +35,4 @@ TelOne Centre for Learning
 ## 🌍 Let's Connect
 📫 **Email:** tchoga00@gmail.com
 💼 **LinkedIn:** [tanatswa-clayton-choga](https://www.linkedin.com/in/tanatswa-clayton-choga-62b659340)
+🌐 **Portfolio:** [tchoga.netlify.app](https://tchoga.netlify.app)
