@@ -13,7 +13,11 @@ and I also **build websites** for businesses and personal projects.
 - ⚙️ Troubleshoot complex network issues and automate where it matters
 - 🛠️ Former Network Engineer at **TelOne Zimbabwe**
 
-## 🎓 Certifications
+## 🎓 Education & Certifications
+**Diploma in Telecommunications Engineering**
+TelOne Centre for Learning
+
+**Certifications:**
 - ✅ CCNA — Switching & Routing
 - ✅ CCNA — Enterprise
 - ✅ CCNA — Security
