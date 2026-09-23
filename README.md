@@ -1,7 +1,7 @@
 # Hi, I'm Tanatswa Clayton Choga aka Gancholin 👋
 
 **Telecommunications Engineer • Network Specialist • Web Developer**
-Based in Zimbabwe 🇿🇼 | Open to remote roles & relocation 🌍
+Based in Zimbabwe  | Open to remote roles & relocation 🌍
 
 I work on the **technical side of networks** — fiber, VoIP, cloud, and security —
 and I also **build websites** for businesses and personal projects.
