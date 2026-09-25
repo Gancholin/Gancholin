@@ -18,9 +18,9 @@ and I also **build websites** for businesses and personal projects.
 TelOne Centre for Learning
 
 **Certifications:**
-- ✅ CCNA — Switching & Routing
-- ✅ CCNA — Enterprise
-- ✅ CCNA — Security
+- ✅ Cisco Networking Academy — CCNA: Switching, Routing, and Wireless Essentials
+- ✅ Cisco Networking Academy — CCNAv7: Introduction to Networks
+- ✅ Cisco Networking Academy — CCNAv7: Enterprise Networking, Security, and Automation
 - ✅ EC-Council Cybersecurity
 
 ## 💻 Tech & Tools
